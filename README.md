@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage has been optimised with for accessibility with with the following:
+This webpage has been optimised with for accessibility with the following:
 - Semantic element code in html
 - A logical structure
 - Accessible alt attributes
